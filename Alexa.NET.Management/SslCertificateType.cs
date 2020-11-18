@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management
+﻿namespace VoicifyAlexa.NET.Management
 {
     public enum SslCertificateType
     {

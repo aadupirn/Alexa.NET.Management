@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Nlu.Evaluation
+namespace VoicifyAlexa.NET.Management.Nlu.Evaluation
 {
     public class EvaluationStatusWithLinks:EvaluationStatus
     {

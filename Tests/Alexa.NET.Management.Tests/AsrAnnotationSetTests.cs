@@ -3,12 +3,12 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Asr.AnnotationSet;
+using VoicifyAlexa.NET.Management.Asr.AnnotationSet;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class AsrAnnotationSetTests
     {

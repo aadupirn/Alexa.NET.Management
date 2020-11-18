@@ -1,9 +1,9 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.SkillDevelopment;
+using VoicifyAlexa.NET.Management.SkillDevelopment;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public interface IClientSkillDevelopmentApi
     {

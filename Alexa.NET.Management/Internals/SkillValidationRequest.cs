@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class SkillValidationRequest
     {

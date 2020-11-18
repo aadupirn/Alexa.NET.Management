@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.Nlu.AnnotationSet;
+using VoicifyAlexa.NET.Management.Nlu.AnnotationSet;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management.Nlu.Evaluation
+namespace VoicifyAlexa.NET.Management.Nlu.Evaluation
 {
     public class EvaluationResults
     {

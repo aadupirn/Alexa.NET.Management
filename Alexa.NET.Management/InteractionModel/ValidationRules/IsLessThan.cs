@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InteractionModel.ValidationRules
+namespace VoicifyAlexa.NET.Management.InteractionModel.ValidationRules
 {
     public class IsLessThan : DialogSlotValidation
     {

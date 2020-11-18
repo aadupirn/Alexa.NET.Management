@@ -3,7 +3,7 @@ using System.Reflection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SimulationResponseConverter:JsonConverter
     {

@@ -2,12 +2,12 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Asr.AnnotationSet;
+using VoicifyAlexa.NET.Management.Asr.AnnotationSet;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class AsrAnnotationSetsApi : IAsrAnnotationSetsApi
     {

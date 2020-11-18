@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.Api
+﻿namespace VoicifyAlexa.NET.Management.Api
 {
     public enum ContentGenre
     {

@@ -1,9 +1,9 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Asr.AnnotationSet;
+using VoicifyAlexa.NET.Management.Asr.AnnotationSet;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     internal interface IClientAsrAnnotationSetApi
     {

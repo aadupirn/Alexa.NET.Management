@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Internals;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class ApiConversionTests
     {

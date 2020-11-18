@@ -1,8 +1,8 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.CatalogManagement;
+using VoicifyAlexa.NET.Management.CatalogManagement;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface ICatalogManagementApi
     {

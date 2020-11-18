@@ -2,12 +2,12 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Package;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Package;
 using Newtonsoft.Json;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class SkillPackageApi : ISkillPackageApi
     {

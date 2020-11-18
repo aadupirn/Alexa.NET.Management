@@ -1,11 +1,11 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InteractionModel;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InteractionModel;
+using VoicifyAlexa.NET.Management.Skills;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public interface IClientInteractionModelApi
     {

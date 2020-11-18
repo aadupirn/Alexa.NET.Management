@@ -1,10 +1,10 @@
-﻿using Alexa.NET.Management.Manifest;
+﻿using VoicifyAlexa.NET.Management.Manifest;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SkillCreateRequest
     {

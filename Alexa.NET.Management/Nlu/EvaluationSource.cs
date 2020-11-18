@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Nlu
+namespace VoicifyAlexa.NET.Management.Nlu
 {
     public class EvaluationSource
     {

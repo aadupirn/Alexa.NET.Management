@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.SlotType
+namespace VoicifyAlexa.NET.Management.SlotType
 {
     public class CreatedVersion
     {

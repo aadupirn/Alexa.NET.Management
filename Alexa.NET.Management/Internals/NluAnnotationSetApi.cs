@@ -2,11 +2,11 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Nlu.AnnotationSet;
+using VoicifyAlexa.NET.Management.Nlu.AnnotationSet;
 using Newtonsoft.Json.Linq;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class NluAnnotationSetApi : INluAnnotationSetApi
     {

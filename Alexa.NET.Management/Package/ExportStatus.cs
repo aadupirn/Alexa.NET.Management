@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.Package
+﻿namespace VoicifyAlexa.NET.Management.Package
 {
     public enum ExportStatus
     {

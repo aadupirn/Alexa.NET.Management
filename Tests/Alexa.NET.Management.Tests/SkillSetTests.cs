@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Skills;
-using Alexa.NET.Management.SkillSets;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.SkillSets;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class SkillSetTests
     {

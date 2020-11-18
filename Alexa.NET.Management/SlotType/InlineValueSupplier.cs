@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.InteractionModel;
+using VoicifyAlexa.NET.Management.InteractionModel;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.SlotType
+namespace VoicifyAlexa.NET.Management.SlotType
 {
     public class InlineValueSupplier:ValueSupplier
     {

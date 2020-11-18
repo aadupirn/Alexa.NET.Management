@@ -1,7 +1,7 @@
 ﻿using System.Net.Http;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface ISkillDevelopmentApi
     {

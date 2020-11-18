@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management.ReferenceCatalogManagement
+namespace VoicifyAlexa.NET.Management.ReferenceCatalogManagement
 {
     public enum UpdateJobStatus
     {

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Api;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InSkillProduct
+namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public class PublishingInformation
     {

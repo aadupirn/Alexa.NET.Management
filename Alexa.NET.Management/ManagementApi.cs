@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Internals;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Skills;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class ManagementApi
     {

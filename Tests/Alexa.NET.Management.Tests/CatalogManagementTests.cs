@@ -3,12 +3,12 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.CatalogManagement;
-using Alexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.CatalogManagement;
+using VoicifyAlexa.NET.Management.Internals;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class CatalogManagementTests
     {

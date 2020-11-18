@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.SkillDevelopment
+﻿namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public class SkillUpdate : SkillDevelopmentEvent<SkillUpdatePayload>
     {

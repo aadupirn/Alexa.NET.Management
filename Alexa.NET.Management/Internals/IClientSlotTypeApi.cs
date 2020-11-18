@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.SlotType;
+using VoicifyAlexa.NET.Management.SlotType;
 using Refit;
-using Version = Alexa.NET.Management.SlotType.Version;
+using Version = VoicifyAlexa.NET.Management.SlotType.Version;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public interface IClientSlotTypeApi
     {

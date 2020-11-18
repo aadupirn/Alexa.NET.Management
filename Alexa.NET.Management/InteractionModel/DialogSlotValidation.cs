@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     [JsonConverter(typeof(DialogSlotValidationConverter))]
     public abstract class DialogSlotValidation

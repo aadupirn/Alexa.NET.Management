@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.InteractionModel.ValidationRules
+namespace VoicifyAlexa.NET.Management.InteractionModel.ValidationRules
 {
     public class HasEntityResolutionMatch : DialogSlotValidation
     {

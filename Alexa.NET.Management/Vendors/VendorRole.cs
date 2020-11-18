@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Vendors
+namespace VoicifyAlexa.NET.Management.Vendors
 {
     public static class VendorRole
     {

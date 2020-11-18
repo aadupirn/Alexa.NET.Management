@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Audit;
+using VoicifyAlexa.NET.Management.Audit;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IAuditLogsApi
     {

@@ -3,11 +3,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.SkillDevelopment;
+using VoicifyAlexa.NET.Management.SkillDevelopment;
 using Newtonsoft.Json;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class SkillDevelopmentTests
     {

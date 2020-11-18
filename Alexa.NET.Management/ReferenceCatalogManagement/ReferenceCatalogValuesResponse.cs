@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.InteractionModel;
+using VoicifyAlexa.NET.Management.InteractionModel;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.ReferenceCatalogManagement
+namespace VoicifyAlexa.NET.Management.ReferenceCatalogManagement
 {
     public class ReferenceCatalogValuesResponse
     {

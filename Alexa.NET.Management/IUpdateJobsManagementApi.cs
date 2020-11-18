@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Alexa.NET.Management.ReferenceCatalogManagement;
+using VoicifyAlexa.NET.Management.ReferenceCatalogManagement;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IUpdateJobsManagementApi
     {

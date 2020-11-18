@@ -5,14 +5,14 @@ using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.IntentRequestHistory;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.IntentRequestHistory;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Refit;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class IntentRequestHistoryTests
     {

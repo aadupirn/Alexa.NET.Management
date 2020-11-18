@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     internal class Iso8601Converter:IsoDateTimeConverter
     {

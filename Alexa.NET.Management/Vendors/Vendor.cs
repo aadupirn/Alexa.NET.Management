@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Vendors
+namespace VoicifyAlexa.NET.Management.Vendors
 {
     public class Vendor
     {

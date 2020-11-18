@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Alexa.NET.Management.Asr.Evaluations
+namespace VoicifyAlexa.NET.Management.Asr.Evaluations
 {
     public class RunEvaluationsResponse
     {

@@ -1,10 +1,10 @@
 using System;
 using System.Reflection;
-using Alexa.NET.Management.InteractionModel.ValidationRules;
+using VoicifyAlexa.NET.Management.InteractionModel.ValidationRules;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     public class DialogSlotValidationConverter : JsonConverter
     {

@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Skills;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public interface ISkillSetContextSimulationApi
     {

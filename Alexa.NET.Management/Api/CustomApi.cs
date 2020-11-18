@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Alexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Internals;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Api
+namespace VoicifyAlexa.NET.Management.Api
 {
     public class CustomApi:IApi
     {

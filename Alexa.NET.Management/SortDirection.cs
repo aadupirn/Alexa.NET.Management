@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public enum SortDirection
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public static class SkillSetExtensions
     {

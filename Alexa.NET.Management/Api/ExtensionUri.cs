@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Api
+namespace VoicifyAlexa.NET.Management.Api
 {
     public class ExtensionUri
     {

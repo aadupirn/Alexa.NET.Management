@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Api;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SkillSummary
     {

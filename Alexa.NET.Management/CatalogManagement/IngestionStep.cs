@@ -3,7 +3,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management.CatalogManagement
+namespace VoicifyAlexa.NET.Management.CatalogManagement
 {
     public class IngestionStep
     {

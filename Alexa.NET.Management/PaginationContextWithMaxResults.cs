@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class PaginationContextWithMaxResults:PaginationContext
     {

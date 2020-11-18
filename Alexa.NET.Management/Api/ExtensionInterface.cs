@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Api
+namespace VoicifyAlexa.NET.Management.Api
 {
     public class ExtensionInterface:CustomApiInterface
     {

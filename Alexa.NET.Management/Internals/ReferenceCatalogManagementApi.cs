@@ -2,11 +2,11 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Internals;
-using Alexa.NET.Management.ReferenceCatalogManagement;
+using VoicifyAlexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.ReferenceCatalogManagement;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     internal class ReferenceCatalogManagementApi:IReferenceCatalogManagementApi
     {

@@ -4,11 +4,11 @@ using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InSkillProduct;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InSkillProduct;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class InProductSkillsApi : IInSkillProductApi
     {

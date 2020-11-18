@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SubmitResponse
     {

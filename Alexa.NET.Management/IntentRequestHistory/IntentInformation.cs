@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.IntentRequestHistory
+namespace VoicifyAlexa.NET.Management.IntentRequestHistory
 {
     public class IntentInformation
     {

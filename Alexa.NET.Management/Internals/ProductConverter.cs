@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
-using Alexa.NET.Management.InSkillProduct;
+using VoicifyAlexa.NET.Management.InSkillProduct;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class ProductConverter : JsonConverter
     {

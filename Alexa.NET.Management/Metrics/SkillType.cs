@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management.Metrics
+namespace VoicifyAlexa.NET.Management.Metrics
 {
     public enum SkillType
     {

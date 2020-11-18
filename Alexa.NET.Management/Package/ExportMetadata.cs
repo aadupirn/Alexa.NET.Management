@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Package
+namespace VoicifyAlexa.NET.Management.Package
 {
     public class ExportMetadata
     {

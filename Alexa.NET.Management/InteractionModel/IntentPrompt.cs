@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     public class IntentPrompt
     {

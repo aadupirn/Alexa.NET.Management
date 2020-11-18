@@ -1,9 +1,9 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.ReferenceCatalogManagement;
+using VoicifyAlexa.NET.Management.ReferenceCatalogManagement;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     internal interface IClientUpdateJobsRefManagementApi
     {

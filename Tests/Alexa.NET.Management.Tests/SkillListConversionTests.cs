@@ -1,11 +1,11 @@
 ﻿using System.IO;
 using System.Linq;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Skills;
 using Newtonsoft.Json;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class SkillListConversionTests
     {

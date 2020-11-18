@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.InSkillProduct;
+using VoicifyAlexa.NET.Management.InSkillProduct;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class CertificationListResponse
     {

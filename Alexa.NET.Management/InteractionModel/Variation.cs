@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     public class Variation
     {

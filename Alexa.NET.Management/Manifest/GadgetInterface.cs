@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Manifest
+namespace VoicifyAlexa.NET.Management.Manifest
 {
     public static class GadgetInterface
     {

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Beta;
-using Alexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Beta;
+using VoicifyAlexa.NET.Management.Internals;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IBetaTestApi
     {

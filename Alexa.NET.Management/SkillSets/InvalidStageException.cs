@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public class InvalidStageException : Exception
     {

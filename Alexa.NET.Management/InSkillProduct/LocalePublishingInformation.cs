@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InSkillProduct
+namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public class LocalePublishingInformation
     {

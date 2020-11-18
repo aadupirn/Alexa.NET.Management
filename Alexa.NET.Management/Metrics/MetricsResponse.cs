@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Metrics
+namespace VoicifyAlexa.NET.Management.Metrics
 {
     public class MetricsResponse
     {

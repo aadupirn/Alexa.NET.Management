@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     [JsonConverter(typeof(SimulationResponseConverter))]
     public abstract class SimulationAlexaResponse

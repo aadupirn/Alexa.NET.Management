@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Metrics;
+using VoicifyAlexa.NET.Management.Metrics;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IMetricsApi
     {

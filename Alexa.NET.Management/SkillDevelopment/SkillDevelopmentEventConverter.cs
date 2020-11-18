@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.SkillDevelopment
+namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public class SkillDevelopmentEventConverter:JsonConverter<SkillDevelopmentEvent>
     {

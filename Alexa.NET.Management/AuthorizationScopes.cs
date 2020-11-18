@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management
+﻿namespace VoicifyAlexa.NET.Management
 {
     public static class AuthorizationScopes
     {

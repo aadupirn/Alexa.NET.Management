@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Nlu.AnnotationSet
+namespace VoicifyAlexa.NET.Management.Nlu.AnnotationSet
 {
     public class AnnotationSetProperties
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Api;
 using Refit;
 
-namespace Alexa.NET.Management.Asr.Evaluations
+namespace VoicifyAlexa.NET.Management.Asr.Evaluations
 {
     public class EvaluationListRequest
     {

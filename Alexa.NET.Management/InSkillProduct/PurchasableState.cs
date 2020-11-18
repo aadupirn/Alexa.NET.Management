@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.InSkillProduct
+namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public static class PurchasableState
     {

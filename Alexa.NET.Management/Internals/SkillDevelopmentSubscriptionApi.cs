@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Net;
 using System.Threading.Tasks;
-using Alexa.NET.Management.SkillDevelopment;
+using VoicifyAlexa.NET.Management.SkillDevelopment;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class SkillDevelopmentSubscriptionApi : ISkillDevelopmentSubscriptionApi
     {

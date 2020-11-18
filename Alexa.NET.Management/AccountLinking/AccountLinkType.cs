@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.AccountLinking
+﻿namespace VoicifyAlexa.NET.Management.AccountLinking
 {
     public enum AccountLinkType
     {

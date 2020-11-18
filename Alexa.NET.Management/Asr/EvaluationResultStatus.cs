@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management.Asr.Evaluations
+namespace VoicifyAlexa.NET.Management.Asr.Evaluations
 {
     public enum EvaluationResultStatus
     {

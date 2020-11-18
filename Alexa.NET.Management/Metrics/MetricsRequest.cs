@@ -1,9 +1,9 @@
 ﻿using System;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Request.Type;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Request.Type;
 using Refit;
 
-namespace Alexa.NET.Management.Metrics
+namespace VoicifyAlexa.NET.Management.Metrics
 {
     //https://developer.amazon.com/docs/smapi/metrics-api.html#get-metrics
     public class MetricsRequest

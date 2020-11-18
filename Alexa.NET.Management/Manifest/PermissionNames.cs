@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.Manifest
+﻿namespace VoicifyAlexa.NET.Management.Manifest
 {
     public static class PermissionNames
     {

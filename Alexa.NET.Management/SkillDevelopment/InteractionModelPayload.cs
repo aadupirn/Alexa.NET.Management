@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.SkillDevelopment
+namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public class InteractionModelPayload:SkillDevelopmentEventPayload
     {

@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Management.InteractionModel;
+﻿using VoicifyAlexa.NET.Management.InteractionModel;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SkillInteraction
     {

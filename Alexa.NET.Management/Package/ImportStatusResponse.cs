@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Management.Package
+namespace VoicifyAlexa.NET.Management.Package
 {
     public class ImportStatusResponse
     {

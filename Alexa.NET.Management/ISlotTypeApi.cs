@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.SlotType;
+using VoicifyAlexa.NET.Management.SlotType;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface ISlotTypeApi
     {

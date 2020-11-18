@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Request;
+using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Asr.AnnotationSet
+namespace VoicifyAlexa.NET.Management.Asr.AnnotationSet
 {
     public class AnnotationSetResponse
     {

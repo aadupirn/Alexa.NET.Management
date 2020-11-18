@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.IntentRequestHistory;
+using VoicifyAlexa.NET.Management.IntentRequestHistory;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     internal interface IClientIntentRequestHistoryApi
     {

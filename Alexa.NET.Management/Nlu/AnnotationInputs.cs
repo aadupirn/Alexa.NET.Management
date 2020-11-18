@@ -3,7 +3,7 @@ using System.ComponentModel;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Management.Nlu.AnnotationSet
+namespace VoicifyAlexa.NET.Management.Nlu.AnnotationSet
 {
     public class AnnotationInputs
     {

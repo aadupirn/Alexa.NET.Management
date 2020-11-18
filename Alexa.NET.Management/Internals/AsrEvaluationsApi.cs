@@ -2,12 +2,12 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Asr.Evaluations;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Asr.Evaluations;
 using Newtonsoft.Json.Linq;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class AsrEvaluationsApi:IAsrEvaluationsApi
     {

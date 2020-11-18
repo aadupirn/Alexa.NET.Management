@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.ReferenceCatalogManagement
+namespace VoicifyAlexa.NET.Management.ReferenceCatalogManagement
 {
     public class ReferenceCatalogListVersionsResponse
     {

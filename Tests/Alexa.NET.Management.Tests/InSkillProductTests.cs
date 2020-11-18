@@ -4,14 +4,14 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InSkillProduct;
-using Alexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InSkillProduct;
+using VoicifyAlexa.NET.Management.Internals;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
 
     public class InSkillProductTests

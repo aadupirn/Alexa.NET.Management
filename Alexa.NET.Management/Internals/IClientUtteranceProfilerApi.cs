@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.UtteranceProfiler;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.UtteranceProfiler;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     interface IClientUtteranceProfilerApi
     {

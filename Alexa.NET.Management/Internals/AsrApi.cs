@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     public class AsrApi:IAsrApi
     {

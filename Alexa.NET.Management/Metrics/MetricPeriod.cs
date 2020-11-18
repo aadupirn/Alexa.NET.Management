@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Alexa.NET.Management.Metrics
+namespace VoicifyAlexa.NET.Management.Metrics
 {
     public enum MetricPeriod
     {

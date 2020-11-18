@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.AccountLinking;
-using Alexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.AccountLinking;
+using VoicifyAlexa.NET.Management.Api;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IAccountLinkingApi
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
-using Alexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Api;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public class SkillSetLocaleApi: ISkillSetLocaleApi
     {

@@ -3,12 +3,12 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.UtteranceProfiler;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.UtteranceProfiler;
 using Newtonsoft.Json;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class UtteranceProfilerTests
     {

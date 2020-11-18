@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public class SkillSetOptions:IComparer<SkillSetLocale>,IComparer<string>
     {

@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.Validation
+﻿namespace VoicifyAlexa.NET.Management.Validation
 {
     public enum ValidationStatus
     {

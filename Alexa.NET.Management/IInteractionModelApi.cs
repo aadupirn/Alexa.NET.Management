@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InteractionModel;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InteractionModel;
+using VoicifyAlexa.NET.Management.Skills;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IInteractionModelApi
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InSkillProduct
+namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public class Pricing<T>  {
         [JsonProperty("releaseDate")]

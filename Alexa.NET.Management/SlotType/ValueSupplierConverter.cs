@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.SlotType
+namespace VoicifyAlexa.NET.Management.SlotType
 {
     public class ValueSupplierConverter:JsonConverter<ValueSupplier>
     {

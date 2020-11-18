@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.InSkillProduct
+﻿namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public static class TaxCategory
     {

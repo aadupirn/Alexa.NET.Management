@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Nlu.AnnotationSet;
+using VoicifyAlexa.NET.Management.Nlu.AnnotationSet;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface INluAnnotationSetApi
     {

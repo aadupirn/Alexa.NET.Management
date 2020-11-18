@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.SkillSets
+﻿namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public class SkillSetLocale
     {

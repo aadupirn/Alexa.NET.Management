@@ -1,7 +1,7 @@
-using Alexa.NET.Request;
+using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class InvocationSkillRequest
     {

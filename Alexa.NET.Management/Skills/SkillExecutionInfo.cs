@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Skills
+namespace VoicifyAlexa.NET.Management.Skills
 {
     public class SkillExecutionInfo
     {

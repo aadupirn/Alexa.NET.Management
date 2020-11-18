@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Request;
+﻿using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.UtteranceProfiler
+namespace VoicifyAlexa.NET.Management.UtteranceProfiler
 {
     public class UtteranceProfilerResponse
     {

@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Request;
+﻿using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Nlu.Evaluation
+namespace VoicifyAlexa.NET.Management.Nlu.Evaluation
 {
     public class TestCaseResult
     {

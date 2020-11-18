@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management.AccountLinking
+namespace VoicifyAlexa.NET.Management.AccountLinking
 {
     public class AccountLinkData
     {

@@ -2,14 +2,14 @@
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Internals;
-using Alexa.NET.Management.Validation;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Internals;
+using VoicifyAlexa.NET.Management.Validation;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class SkillValidationTests
     {

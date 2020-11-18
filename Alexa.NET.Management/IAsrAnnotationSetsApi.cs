@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Asr.AnnotationSet;
+using VoicifyAlexa.NET.Management.Asr.AnnotationSet;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IAsrAnnotationSetsApi
     {

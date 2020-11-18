@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Management.ReferenceCatalogManagement
+namespace VoicifyAlexa.NET.Management.ReferenceCatalogManagement
 {
     public class UpdateJobTriggerConverter : JsonConverter<IUpdateJobTrigger>
     {

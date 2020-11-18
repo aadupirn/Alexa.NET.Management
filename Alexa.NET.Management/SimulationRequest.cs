@@ -1,7 +1,7 @@
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Skills;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class SimulationRequest
     {

@@ -22,10 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Alexa.NET.Management\Alexa.NET.Management.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="Examples\AlexaExtension.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -232,5 +228,8 @@
     <Content Include="Examples\Subscriber.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Alexa.NET.Management\VoicifyAlexa.NET.Management.csproj" />
   </ItemGroup>
 </Project>

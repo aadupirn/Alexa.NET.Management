@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Audit
+namespace VoicifyAlexa.NET.Management.Audit
 {
     public class Requester
     {

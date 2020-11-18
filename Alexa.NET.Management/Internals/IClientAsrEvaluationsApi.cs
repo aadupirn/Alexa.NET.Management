@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Refit;
 
-namespace Alexa.NET.Management.Internals
+namespace VoicifyAlexa.NET.Management.Internals
 {
     internal interface IClientAsrEvaluationsApi
     {

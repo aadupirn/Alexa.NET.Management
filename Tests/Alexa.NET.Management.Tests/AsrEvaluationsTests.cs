@@ -2,13 +2,13 @@
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Asr.Evaluations;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Asr.Evaluations;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class AsrEvaluationsTests
     {

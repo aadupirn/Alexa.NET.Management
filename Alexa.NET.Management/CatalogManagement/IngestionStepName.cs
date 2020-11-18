@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management.CatalogManagement
+namespace VoicifyAlexa.NET.Management.CatalogManagement
 {
     public enum IngestionStepName
     {

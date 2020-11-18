@@ -1,13 +1,13 @@
 ﻿using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.InteractionModel;
-using Alexa.NET.Management.SlotType;
+using VoicifyAlexa.NET.Management.InteractionModel;
+using VoicifyAlexa.NET.Management.SlotType;
 using Newtonsoft.Json;
 using Xunit;
-using Version = Alexa.NET.Management.SlotType.Version;
+using Version = VoicifyAlexa.NET.Management.SlotType.Version;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class SlotTypeTests
     {

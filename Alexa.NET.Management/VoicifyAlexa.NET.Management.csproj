@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Alexa.NET" Version="1.13.0" />
+    <PackageReference Include="VoicifyAlexa.NET" Version="1.14.0" />
     <PackageReference Include="Refit" Version="4.7.51" />
   </ItemGroup>
 

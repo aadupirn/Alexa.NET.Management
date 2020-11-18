@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.IntentRequestHistory;
+using VoicifyAlexa.NET.Management.IntentRequestHistory;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IIntentRequestHistoryApi
     {

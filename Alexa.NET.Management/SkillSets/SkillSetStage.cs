@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Skills;
 
-namespace Alexa.NET.Management.SkillSets
+namespace VoicifyAlexa.NET.Management.SkillSets
 {
     public class SkillSetStage: ISkillSetStage
     {

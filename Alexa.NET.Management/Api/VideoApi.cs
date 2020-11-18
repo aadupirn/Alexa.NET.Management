@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Alexa.NET.Management.Api
+namespace VoicifyAlexa.NET.Management.Api
 {
     public class VideoApi:IApi
     {

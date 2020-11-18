@@ -2,7 +2,7 @@
 using System.Data.Common;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Nlu.AnnotationSet
+namespace VoicifyAlexa.NET.Management.Nlu.AnnotationSet
 {
     public class AnnotationIntent
     {

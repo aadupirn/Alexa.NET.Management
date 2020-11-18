@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Validation
+namespace VoicifyAlexa.NET.Management.Validation
 {
     public static class ValidationLocales
     {

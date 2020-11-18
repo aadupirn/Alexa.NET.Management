@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Management.Vendors;
+﻿using VoicifyAlexa.NET.Management.Vendors;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class VendorResponse
     {

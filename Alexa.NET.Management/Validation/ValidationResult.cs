@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Management.Api;
+﻿using VoicifyAlexa.NET.Management.Api;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Validation
+namespace VoicifyAlexa.NET.Management.Validation
 {
     public class ValidationResult
     {

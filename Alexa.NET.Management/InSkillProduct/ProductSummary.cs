@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Skills;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InSkillProduct
+namespace VoicifyAlexa.NET.Management.InSkillProduct
 {
     public class ProductSummary
     {

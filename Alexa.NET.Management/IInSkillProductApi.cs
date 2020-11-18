@@ -1,10 +1,10 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InSkillProduct;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InSkillProduct;
 using Refit;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IInSkillProductApi
     {

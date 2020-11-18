@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Management.Package
+namespace VoicifyAlexa.NET.Management.Package
 {
     public enum ImportStatus
     {

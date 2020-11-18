@@ -1,4 +1,4 @@
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     public enum VariationType
     {

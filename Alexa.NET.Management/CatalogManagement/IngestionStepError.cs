@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.CatalogManagement
+namespace VoicifyAlexa.NET.Management.CatalogManagement
 {
     public class IngestionStepError
     {

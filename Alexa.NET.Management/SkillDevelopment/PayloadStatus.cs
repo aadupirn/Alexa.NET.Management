@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace Alexa.NET.Management.SkillDevelopment
+namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public enum PayloadStatus
     {

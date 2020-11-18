@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Management.Api;
-using Alexa.NET.Management.InSkillProduct;
+﻿using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.InSkillProduct;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class GetInSkillProductFilters
     {

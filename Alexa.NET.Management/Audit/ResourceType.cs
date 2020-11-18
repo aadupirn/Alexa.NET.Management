@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.Audit
+﻿namespace VoicifyAlexa.NET.Management.Audit
 {
     public enum ResourceType
     {

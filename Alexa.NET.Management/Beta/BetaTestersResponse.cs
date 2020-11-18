@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Beta
+namespace VoicifyAlexa.NET.Management.Beta
 {
     public class BetaTestersResponse
     {

@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Management.SlotType;
+﻿using VoicifyAlexa.NET.Management.SlotType;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.InteractionModel
+namespace VoicifyAlexa.NET.Management.InteractionModel
 {
     public class SlotType
     {

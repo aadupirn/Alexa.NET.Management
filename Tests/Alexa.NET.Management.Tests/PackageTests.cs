@@ -3,12 +3,12 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Package;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Package;
 using Newtonsoft.Json;
 using Xunit;
 
-namespace Alexa.NET.Management.Tests
+namespace VoicifyAlexa.NET.Management.Tests
 {
     public class PackageTests
     {

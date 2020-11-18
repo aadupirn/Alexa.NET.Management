@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Management.IntentRequestHistory
+﻿namespace VoicifyAlexa.NET.Management.IntentRequestHistory
 {
     public enum InteractionType
     {

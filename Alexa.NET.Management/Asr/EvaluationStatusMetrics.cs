@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.Asr.Evaluations
+namespace VoicifyAlexa.NET.Management.Asr.Evaluations
 {
     public class EvaluationStatusMetrics
     {

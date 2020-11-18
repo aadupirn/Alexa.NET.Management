@@ -1,8 +1,8 @@
-﻿using Alexa.NET.Management.Api;
+﻿using VoicifyAlexa.NET.Management.Api;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public class Endpoint
     {

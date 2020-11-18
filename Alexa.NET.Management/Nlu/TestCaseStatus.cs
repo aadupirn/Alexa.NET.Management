@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Management.Nlu.Evaluation
+namespace VoicifyAlexa.NET.Management.Nlu.Evaluation
 {
     public enum TestCaseStatus
     {

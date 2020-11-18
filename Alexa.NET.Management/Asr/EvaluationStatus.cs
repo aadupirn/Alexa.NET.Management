@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Management.Asr.Evaluations
+namespace VoicifyAlexa.NET.Management.Asr.Evaluations
 {
     public class EvaluationStatus
     {

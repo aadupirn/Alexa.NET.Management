@@ -4,7 +4,7 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public static class StatusResponse
     {

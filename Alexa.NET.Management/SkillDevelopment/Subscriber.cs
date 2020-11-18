@@ -4,7 +4,7 @@ using System.Net;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.SkillDevelopment
+namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public class Subscriber:SubscriberUpdate
     {

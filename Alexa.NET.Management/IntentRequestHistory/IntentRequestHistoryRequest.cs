@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Skills;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Skills;
 using Refit;
 
-namespace Alexa.NET.Management.IntentRequestHistory
+namespace VoicifyAlexa.NET.Management.IntentRequestHistory
 {
     internal class ClientIntentRequestHistoryRequest
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Management.SkillDevelopment
+namespace VoicifyAlexa.NET.Management.SkillDevelopment
 {
     public class SubscriptionUpdate
     {

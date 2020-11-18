@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Package;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Package;
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface ISkillPackageApi
     {

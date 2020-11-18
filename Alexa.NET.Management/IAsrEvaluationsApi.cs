@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
-using Alexa.NET.Management.Api;
-using Alexa.NET.Management.Asr.Evaluations;
+using VoicifyAlexa.NET.Management.Api;
+using VoicifyAlexa.NET.Management.Asr.Evaluations;
 
 
-namespace Alexa.NET.Management
+namespace VoicifyAlexa.NET.Management
 {
     public interface IAsrEvaluationsApi
     {
